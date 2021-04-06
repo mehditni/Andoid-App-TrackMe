@@ -12,5 +12,7 @@
     <string name="phone">Phone</string>
     <string name="new_here_create_an_account">New here? Create an account</string>
     <string name="login">Login</string>
-    
+    <string name="welcome">Welcome</string>
+    <string name="logout">Logout</string>
+
 </resources>
