@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606550365857",
+    "project_id": "trackme-d0b56",
+    "storage_bucket": "trackme-d0b56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606550365857:android:1943e9087ab882a42cc2e0",
+        "android_client_info": {
+          "package_name": "com.example.trackme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606550365857-oj0hdtj9lt3aanquth1sembvcfeikpe5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyWDHENYpT79QM7UmjIyqKfLdpTIMYShQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606550365857-oj0hdtj9lt3aanquth1sembvcfeikpe5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
