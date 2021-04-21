@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "606550365857",
-    "project_id": "trackme-d0b56",
-    "storage_bucket": "trackme-d0b56.appspot.com"
+    "project_number": "314014486742",
+    "project_id": "trackapp-460fd",
+    "storage_bucket": "trackapp-460fd.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:606550365857:android:1943e9087ab882a42cc2e0",
+        "mobilesdk_app_id": "1:314014486742:android:8d35be8eaaf8f8d4c4f977",
         "android_client_info": {
-          "package_name": "com.example.trackme"
+          "package_name": "com.mouad.trackapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "606550365857-oj0hdtj9lt3aanquth1sembvcfeikpe5.apps.googleusercontent.com",
+          "client_id": "314014486742-p9630f6t3fe3vgpe3bf6qlflb1ak3ko0.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAyWDHENYpT79QM7UmjIyqKfLdpTIMYShQ"
+          "current_key": "AIzaSyDA2YCPq-7wky6UJ6EoQVHq33jhxtFmbcM"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "606550365857-oj0hdtj9lt3aanquth1sembvcfeikpe5.apps.googleusercontent.com",
+              "client_id": "314014486742-p9630f6t3fe3vgpe3bf6qlflb1ak3ko0.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
